@@ -1,0 +1,19 @@
+programa {
+  funcao inicio() {
+   real altura, peso
+   cadeia nome
+   inteiro idade
+
+   escreva("digite o seu nome: ")
+   leia (nome)
+   escreva("digite sua idade: ")
+   leia(idade)
+   escreva("digite sua altura: ")
+   leia(altura)
+   escreva("digite seu peso: ")
+   leia (peso)
+   escreva("seu nome: ", nome," idade: ", idade," altura: ", altura," peso: ", peso)
+    
+    
+  }
+}
